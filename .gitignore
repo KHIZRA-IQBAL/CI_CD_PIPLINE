@@ -1,0 +1,2 @@
+node_modules
+.env                # Never push .env to GitHub!
